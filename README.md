@@ -1,1 +1,2 @@
-# Algorithm-Notes
+# Leetcode Notes
+
